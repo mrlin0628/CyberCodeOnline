@@ -4870,11 +4870,11 @@
  	 	 	"eng": "helmet"
  	 	},
  	 	"upperArmor": {
- 	 	 	"trans": "上身裝甲",
+ 	 	 	"trans": "胸甲",
  	 	 	"eng": "upper armor"
  	 	},
  	 	"lowerArmor": {
- 	 	 	"trans": "下身裝甲",
+ 	 	 	"trans": "腿甲",
  	 	 	"eng": "lower armor"
  	 	},
  	 	"boots": {
